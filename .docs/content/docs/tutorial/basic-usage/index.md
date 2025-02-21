@@ -77,12 +77,11 @@ To make this easier, AvatarOptimizer allows you to remove polygons with BlendSha
 
 Let's add `AAO Remove Mesh By BlendShape` component to Body Mesh!
 
-Enable `Automatically set BlendShape weight for preview when toggled` to make sure that unintended parts of the body are not removed, and
-select BlendShapes from the BlendShapes list below that shrink the parts of the body you want to remove!
+Select BlendShapes from the BlendShapes list below that shrink the parts of the body you want to remove!
 
 In case polygons you want to remove are not removed, or you do not want to remove are removed, you need to adjust the `Tolerance` value!
 `Tolerance` decides how much the vertex is moved by BlendShape to be removed.
-In the first case, increase the value a little, in the second case, decrease it a little!
+If some parts intended to be removed is not removed, increase the value a little and in the other case, decrease it a little!
 
 ![remove mesh by BlendShape](./remove-mesh-by-blendshape.png)
 

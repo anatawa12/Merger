@@ -8,10 +8,14 @@ defaultContentLanguageInSubdir = true
 [languages.en]
 weight = 1
 languageName = 'English'
+[languages.en.params]
+howToInstall = 'How to Install'
 
 [languages.ja]
 weight = 1
 languageName = '日本語'
+[languages.ja.params]
+howToInstall = 'インストール方法'
 
 [markup.goldmark.renderer]
 unsafe = true
