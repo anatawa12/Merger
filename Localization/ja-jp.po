@@ -844,3 +844,13 @@ msgid "AssetDescription:OpenDocs"
 msgstr "Open Documentation"
 
 # endregion
+
+# region ContextMenus
+
+msgid "ContextMenus:AddTraceAndOptimize:FailedToAddTraceAndOptimize:Title"
+msgstr "Trace and Optimizeの追加に失敗しました"
+
+msgid "ContextMenus:AddTraceAndOptimize:FailedToAddTraceAndOptimize:Message"
+msgstr "Trace and Optimizeはアバターのルートにのみ追加できますので、アバターのルートを選択してください。"
+
+# endregion

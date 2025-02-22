@@ -918,3 +918,13 @@ msgid "AssetDescription:OpenDocs"
 msgstr "Open Documentation"
 
 # endregion
+
+# region ContextMenus
+
+msgid "ContextMenus:AddTraceAndOptimize:FailedToAddTraceAndOptimize:Title"
+msgstr "Failed to add Trace and Optimize"
+
+msgid "ContextMenus:AddTraceAndOptimize:FailedToAddTraceAndOptimize:Message"
+msgstr "Trace and Optimize can only be added to the root of the avatar."
+
+# endregion
